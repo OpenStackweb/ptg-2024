@@ -3,8 +3,8 @@
     {
       "title": "Lobby",
       "link": "/a/",
-      "display": true,
-      "requiresAuth": true,
+      "display": false,
+      "requiresAuth": false,
       "pageRestriction": [
         "ANY"
       ]
