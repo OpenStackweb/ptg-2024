@@ -2,8 +2,8 @@
   "hero": {
     "title": "PROJECT TEAMS GATHERING 2024",
     "date": "April 8-12, 2024",
-    "dateLayout": false,
-    "time": "Timezone",
+    "dateLayout": true,
+    "time": "",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
