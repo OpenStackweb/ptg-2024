@@ -7,7 +7,7 @@
       "enabled": false
     },
     "schedule": {
-      "allowClick": true
+      "allowClick": false
     }
   },
   "lastBuild": 1684857645226,
@@ -43,6 +43,18 @@
     "favicon16": "/img/favicon.png"
   },
   "siteMetadata": {
-    "title": "Default"
+    "title": "Project Teams Gathering 2024",
+    "image": "ptg-logo.svg"
+  },
+  "favicon": {
+    "asset": "openstackicon.png"
+  },
+  "siteFont": {
+    "regularFont": {
+      "fontFile": "/static/fonts/robotocondensed-regular.ttf"
+    },
+    "boldFont": {
+      "fontFile": "/static/fonts/robotocondensed-bold.ttf"
+    }
   }
 }
