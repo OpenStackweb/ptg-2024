@@ -35,6 +35,16 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": true,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "My Ticket",
+      "link": "/a/my-tickets",
+      "display": true
     }
   ]
 }
