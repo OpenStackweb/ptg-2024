@@ -1,8 +1,8 @@
 {
-  "name": "fnevent-tier1-default-theme",
+  "name": "ptg-2024",
   "version": "1.0.0",
   "private": true,
-  "description": "Tier 1 Default fnEvent theme",
+  "description": "ptg-2024 theme",
   "author": "FNTech",
   "keywords": [
     "gatsby"
@@ -15,8 +15,8 @@
     "gatsby-clean": "gatsby clean",
     "clean": "find . -name \"node_modules\" -type d -prune -exec rm -rf '{}' + && yarn && yarn gatsby-clean"
   },
-  "dependencies": {
-    "@openeventkit/event-site": "^2.0.93",
+  "dependencies": {<<<<<<< HEAD
+    "@openeventkit/event-site": "2.0.105",
     "gatsby": "5.8.1"
   }
 }
