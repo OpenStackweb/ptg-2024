@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "PROJECT TEAMS GATHERING 2025",
-    "date": "Coming Soon!",
+    "date": "October 27-31, 2025",
     "dateLayout": true,
     "time": "",
     "buttons": {
@@ -11,7 +11,7 @@
       },
       "loginButton": {
         "text": "Log In",
-        "display": true
+        "display": false
       }
     },
     "images": [
